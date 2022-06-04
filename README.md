@@ -1,3 +1,3 @@
 # anti-aliasing
-down sampling->upsampling
+down sampling -> up sampling   
 with/without anti-aliasing
